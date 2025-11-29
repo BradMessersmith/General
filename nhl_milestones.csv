@@ -1,0 +1,11 @@
+name,role,team,games_played,goals,assists,points,wins,closest_stat,milestone_target,remaining_to_milestone
+Andrei Vasilevskiy,Goalie,TBL,465,0,27,27,293,wins,300,7
+Sidney Crosby,Forward,PIT,1230,591,960,1551,,goals,600,9
+Connor Bedard,Forward,CHI,82,39,42,81,,games_played,100,18
+Jon Cooper,Coach,TBL,850,,,,480,wins,500,20
+Rod Brind'Amour,Coach,CAR,410,,,,278,wins,300,22
+Connor McDavid,Forward,EDM,650,335,676,1011,,assists,700,24
+Auston Matthews,Forward,TOR,563,368,301,669,,points,700,31
+Connor Hellebuyck,Goalie,WPG,445,0,20,20,254,wins,300,46
+Igor Shesterkin,Goalie,NYR,210,0,8,8,136,wins,200,64
+Cale Makar,Defense,COL,315,100,300,400,,games_played,400,85
